@@ -2,6 +2,7 @@
 
 ## 1. 환경설정
 * OS : FreeBSD-11.1-RELEASE
+* Firewall : IPFW
 
 ## 2. 실습환경
 * [문서 참고](https://github.com/ddytjq/IPFW/tree/master/ipfw/ipfw-test-environment.docx)
