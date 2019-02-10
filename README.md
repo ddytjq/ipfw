@@ -4,9 +4,7 @@
 * OS : FreeBSD-11.1-RELEASE
 
 ## 2. 실습환경
-![image](./reference/str.jpg)
-* IPFW에 Rule을 추가
-* Wireshark를 이용하여 네트워크 확인
+* [문서 참고](https://github.com/ddytjq/IPFW/tree/master/ipfw/ipfw-test-environment.docx)
 
 ## 3. 진행사항
 1. FreeBSD 정리
